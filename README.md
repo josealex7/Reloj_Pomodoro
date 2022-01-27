@@ -1,4 +1,4 @@
-# MarkDown
+# Reloj Pomodoro
 Reloj Pomodoro permite seleccionar el tiempo de trabajo, descansos cortos y largos
 
 link de despliegue: https://reloj-pomodoro-1xs45t7n6-josealex7.vercel.app/
